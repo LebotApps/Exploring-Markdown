@@ -1,0 +1,66 @@
+# Exploring Markdown
+
+This is a repo/document for me to keep track of my bash commands and also practice with markdown.
+
+## Common Bash Commands
+- `cd` - **command for changing directories**
+- `touch` - **command for creating files**
+- `adding images` - ![name of pic](pic url)
+- `italics` - *word* italicizes text
+- `bold` - **makes text bold**
+
+`Unordered List` 
+* Example 1
+* Example 2
+    * Example 1a
+    * Example 2a
+
+`Ordered List`
+1. Example 1
+    1. Example 1a
+    1. Example 2a
+1. Example 2
+1. Example 3
+
+`Links` 
+
+[Github](http://github.com)
+
+ `Task List` 
+- [x] task 1 example
+- [x] task 2 example
+
+`Paragraphs` 
+
+Just use plain text when writing paragraphs.
+
+`Line Breaks`
+
+To add line breaks
+
+Simply press enter twice.
+
+
+`Block Quote`
+
+> This is a block quote.
+>
+>In case the block text is a paragraph.
+
+
+`Nested Block Quotes`
+>This is an example of a nested quote.
+>
+>> Which stems from a block quote.
+
+`Blockquotes with Other Elements`
+> # I'm using a Heading 1 inside of the block text.
+>
+> - I'm creating an unordered list in the block text.
+> 1. I'm creating an ordered list 
+> 1. In the blocked text.
+
+
+
+
+![cute cat](data:image/jpeg;base64,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)
