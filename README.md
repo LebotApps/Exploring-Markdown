@@ -40,6 +40,14 @@ To add line breaks
 
 Simply press enter twice.
 
+`Soft Break`  
+To add a break with no spaces in between simply press space twice and press enter  
+like soo.
+>2 spaces would create a large space in between text.
+
+Example of a hard 
+
+break
 
 `Block Quote`
 
